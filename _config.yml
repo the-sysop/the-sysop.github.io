@@ -31,7 +31,8 @@ twitter_username: The_SysOp
 github_username:  the-sysop
 
 # Build settings
-theme: minima
+remote_theme: huangyz0918/moving
+#theme: minima
 plugins:
   - jekyll-feed
 
